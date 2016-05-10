@@ -1,19 +1,4 @@
-name: Embassy Productions Inc
-favicon: null
-layout_spectrum: 0.34849086799658835
-typography_spectrum: 0.9598888531327248
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#9D2D3C'
@@ -23,6 +8,11 @@ color:
     - '#160600'
   brandStrength: 0.06924988958053291
   lightness: 0.5702853896655142
-  saturation: 0.7819713547360152
   rhythmicContrast: 0.044977682176977396
+  saturation: 0.7819713547360152
+cta: {}
+layout_spectrum: 0
+name: Embassy Productions Inc
+opengraph: {}
 purpose: []
+typography_spectrum: 0.583333
